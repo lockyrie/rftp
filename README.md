@@ -1,0 +1,2 @@
+# rftp
+Ruby FTP Client
